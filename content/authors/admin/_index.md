@@ -13,14 +13,13 @@ organizations:
 - name: Toshiba Research Europe
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
 - Software development 
-  (Python & apps)
-- Computer Vision 
-  (scene understanding & machine perception)
+- Scene understanding (CV)
+- Machine Perception (CV)  
 - Probabilistic Machine Learning 
 - Conditional Density Estimation
 
@@ -29,13 +28,13 @@ education:
   courses:
   - course: MPhil in Machine Learning and Machine Intelligence
     institution: University of Cambridge
-    year: 2020-2021
+    year: 2021
   - course: MEng in Mechanical Engineering
-    institution: University of Bristol
-    year: 2016-2020
-  - course: Exchange Year in Software development
-    institution: University of Texas at Austin
-    year: 2018-2019
+    institution: University of Bristol and UT Austin 
+    year: 2020
+  # - course: Exchange Year in Software development
+  #   institution: University of Texas at Austin
+  #   year: 2018-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,7 +65,8 @@ email: ""
 highlight_name: true
 ---
 
-My name is Janek Zimoch, I am curently working as a research intern in Computer Vision Group at Toshiba Research Laboratory in Cambridge, UK. Prior to that, I graduated with commendation (Top 3-5) from an MPhil in Machine Learning and Machine Intelligence [(MLMI)](https://www.mlmi.eng.cam.ac.uk/) at the University of Cambridge. I interested in Software Engineering and Machine Learning in 2018, when during my exchange year at the University of Taxas at Austin I took several Software courses and started 'Extended Vision' computer vision project. In 2019 I came back to the UK to finish my Mechanical Engineering undergaduate degree at University of Bristol (Top 1-2), while continuing my new interest in Software development and Machine Learning.
+My name is Janek Zimoch, I am a computer vision research intern at Toshiba Research Laboratory in Cambridge, UK. I graduated with commendation (Top 3-5) from an MPhil in Machine Learning and Machine Intelligence [(MLMI)](https://www.mlmi.eng.cam.ac.uk/) at the University of Cambridge, in 2021. Prior to that I obtained first class honors in Mechanical Engineering at the University of Bristol, ranking Top 1-2 in cohort of 150 students. 
 
-My overarching goal is to build innovative software products to be used by a wider public. My current technical strengths lie in 
-Three main personal trats which will help me along this quest are my: curiosity, proactiveness, and work ethic.  
+My interest in Software Engineering and Machine Learning began in summer 2018, when during my exchange year at UT Austin (TX, USA) I took several coding classes and started 'Extended Vision' computer vision project. My overarching goal is to build innovative software products to be used by a wider public.
+ <!-- My current technical strengths lie in  -->
+<!-- Three main personal trats which will help me along this quest are my: curiosity, proactiveness, and work ethic.   -->
