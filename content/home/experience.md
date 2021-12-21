@@ -47,7 +47,7 @@ experience:
       * **Main Results:** My multimodal framework reduced the position error by 48% as compared to the same backbone network, but with unimodal output head, when tested in a large indoor environment (James Dyson Building, Cambridge University Engineering Department).
       * **Deliverables:** My framework consists of two parts: (1) multimodal scene coordiante prediction network and (2) Multimodal inference algorithm for 6-DoF camera pose. The mulitmodal scene coordiante prediction is based on of Mixture Density Network and Winner-Takes-All learning strategy. For the inference, I used Factor Graph to model the relationship between variables and then applied Belief Propagation algorithm to arrive at a marginal distribution over 6-DoF camera pose.
       * **Technology used:** Python, TensorFlow, Keras, Feature Pyramid Network, Mixture Density Network, Winner-Takes-All learning strategy, Factor Graph, Belief Propagation.
-    Paper in publication
+      Paper in publication
 
 
   - title: Data Science Intern
