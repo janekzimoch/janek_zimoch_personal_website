@@ -1,6 +1,7 @@
 ---
 title: Startup Weekend Bristol
 summary: In 2018, together with my friends we organised TechStars Startup Weekend in Bristol.
+weight: 1
 tags:
 - Personal
 date: "2016-04-27T00:00:00Z"
