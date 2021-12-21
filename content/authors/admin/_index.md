@@ -26,15 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MPhil in Machine Learning and Machine Intelligence
-    institution: 2021, Commendation, University of Cambridge
-    # year: 2021
-  - course: MEng in Mechanical Engineering
-    institution: 2020, University of Bristol, exchange year at UT Austin 
-    # year: 2020
-  # - course: Exchange Year in Software development
-  #   institution: University of Texas at Austin
-  #   year: 2018-2019
+  - course: MPhil, Machine Learning and Machine Intelligence
+    institution: 2020-2021, Commendation, University of Cambridge, UK
+  - course: MEng, Mechanical Engineering
+    institution: 2016-2020, University of Bristol, UK
+  - course: Exchange year, Software Engineering
+    institution: 2018-2019, University of Texas at Austin, TX, USA 
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,7 +63,7 @@ email: ""
 highlight_name: true
 ---
 
-My name is Janek Zimoch, I am a computer vision research intern at Toshiba Research Laboratory in Cambridge, UK. I graduated with commendation (Top 3-5) from an MPhil in Machine Learning and Machine Intelligence [(MLMI)](https://www.mlmi.eng.cam.ac.uk/) at the University of Cambridge, in 2021. Prior to that I obtained first class honors in Mechanical Engineering at the University of Bristol, ranking Top 1-2 in cohort of 150 students. 
+My name is Janek Zimoch, I am a computer vision research intern at Toshiba Research Laboratory in Cambridge, UK. I graduated with commendation (Top 3-5) from an MPhil in Machine Learning and Machine Intelligence [(MLMI)](https://www.mlmi.eng.cam.ac.uk/) at the University of Cambridge, in 2021. Prior to that I obtained first class honors in Mechanical Engineering at the University of Bristol, ranking Top 1-2 in the cohort of 150 students. 
 
 My interest in Software Engineering and Machine Learning began in summer 2018, when during my exchange year at UT Austin (TX, USA) I took several coding classes and started 'Extended Vision' computer vision project. My overarching goal is to build innovative software products to be used by a wider public.
  <!-- My current technical strengths lie in  -->
