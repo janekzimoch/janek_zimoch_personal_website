@@ -1,12 +1,12 @@
 ---
-title: 
-summary: An example of using the in-built project page.
+title: Startup Weekend Bristol
+summary: In 2018, together with group of 4 friends we organised TechStars Startup Weekend in Bristol.
 tags:
 - Personal
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://youtu.be/F2eA15q_DVg"
+# external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
