@@ -27,11 +27,11 @@ interests:
 education:
   courses:
   - course: MPhil in Machine Learning and Machine Intelligence
-    institution: University of Cambridge
-    year: 2021
+    institution: 2021, Commendation, University of Cambridge
+    # year: 2021
   - course: MEng in Mechanical Engineering
-    institution: University of Bristol and UT Austin 
-    year: 2020
+    institution: 2020, University of Bristol, exchange year at UT Austin 
+    # year: 2020
   # - course: Exchange Year in Software development
   #   institution: University of Texas at Austin
   #   year: 2018-2019
