@@ -22,6 +22,8 @@ Here is an after-video i put together, have a look!
 
 {{< youtube F2eA15q_DVg >}}
 
+\\
+\\
 
 And here are 5 minute long pitches by the top 3 teams presented during demo day (last day):
 

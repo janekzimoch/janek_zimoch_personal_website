@@ -1,6 +1,6 @@
 ---
-title: Startup Weekend Bristol
-summary: In 2018, together with my friends we organised TechStars Startup Weekend in Bristol.
+title: Extended Vision
+summary: In 2018, I worked on a 'Extended Vision' project, where the aim was to use computer vision in an accesibility app for visualy impaired.
 tags:
 - Personal
 date: "2016-04-27T00:00:00Z"

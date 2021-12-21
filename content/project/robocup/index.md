@@ -1,6 +1,6 @@
 ---
-title: Startup Weekend Bristol
-summary: In 2018, together with my friends we organised TechStars Startup Weekend in Bristol.
+title: Junior RoboCup World Championships
+summary: In 2016, together with my team we represented the UK at Junior RoboCup World Championships in Leipzgi, Germany.
 tags:
 - Personal
 date: "2016-04-27T00:00:00Z"
@@ -19,5 +19,4 @@ To provide best environment possible we organised an amazing venue, delcious foo
 
 Here is an after-video i put together, have a look! :smiley:
 
-
-{{< youtube F2eA15q_DVg >}}
+{{< youtube TyXvaecd5eg >}}
