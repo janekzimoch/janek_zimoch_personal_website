@@ -26,30 +26,31 @@ experience:
     company: Toshiba Research Europe
     # company_url: ''
     # company_logo: org-gc
-    location: Cambridge, UK
+    location: 3 months, Cambridge, UK
     date_start: '2021-11-01'
     date_end: '2022-02-01'
     description: |2-
-        * Object 3D shape reconstruction with few-lights Photometric-Stereo using CNNs. 
-        * Conditional density estimation with Normlising Flows.
-        * Python, Pytorch, C++
-        *	The internship is usually awarded to Phd students after their 2nd year.
+      * **Project objective:** Reformulate surface normal regression in CNN based photometric-stereo task, as a conditional density estimation task using flexible Conditional Normalising Flows.
+      * **Motivation:** Conditional density estimation allows to regress entire posterior distribution rather than just its mean, as is the case in a deterministic formulation of regression tasks. Access to the full posterior distribution can improve quality of 3D surface integration by leveraging the full posterior distribution during inference. This will improve state of the art of a few light CNN based photometric stereo, where mapping from input to output may sometimes become ambigious due to shadows, color saturation, self-reflections and other ocmplex light-surface interactions.
+      * **Technology used:** Python, Synthetic data generation in C++, PyTorch, Pyro, Conditional Normalising Flows, Graphics and Rendering theory.
+
 
         
   - title: Graduate Student Researcher
     company: University of Cambridge
-    location: Cambridge, UK
+    location: 5 months for thesis + 2 months full time after graduation, Cambridge, UK
     date_start: '2021-04-01'
-    date_end: '2020-11-01'
+    date_end: '2021-11-01'
     description: |2-
-      Worked on Visual localisation task:
-        * Developed: “Multimodal Scene Coordinate Regression: A Novel, Probabilistic Approach to Camera Re-Localisation in Ambiguous Environments”.
-        * Achieved 48% reduction in position error as compared to the same network, but with unimodal output head.
-        * TensorFlow, Feature Pyramid Network, Mixture Density Network, Factor Graph, Belief Propagation,  
+      * **Thesis title:** “Multimodal Scene Coordinate Regression: A Novel, Probabilistic Approach to Camera Re-Localisation in Ambiguous Environments”
+      * **Motivation:** In visual Localisation (the task of regressing 6-DoF camera pose from an RGB image), the mapping from input to output can often be multimodal, due to structure, symmetry, and texturless surfaces in the environment. During my research, I extended the scene coordinate regression approach from unimodal to multimodal setting, to enable reasoning in such ambigious settings.
+      * **Main Results:** My model multimodal framework achieved 48% reduction in position error as compared to the same network, but with unimodal output head, when tested in a large indoor environment (James Dyson Building, Cambridge University Engineering Department).
+      * **Deliverables:** My framework consists of two parts: (1) multimodal scene coordiante prediction network and (2) Multimodal inference for 6-DoF camera pose. The mulitmodal scene coordiante prediction is based on my adaptation of Mixture Density Network with a Winner-Takes-All learning strategy. For the inference i built Factor Graph model of relationship between variables and applied Belief Propagation algorithm to arrive at a marginal distribution over 6-DoF camera pose.
+      * **Technology used:** Python, TensorFlow, Keras, Feature Pyramid Network, Mixture Density Network, Winner-Takes-All learning strategy, Factor Graph, Belief Propagation.
 
   - title: Data Science Intern
     company: DeepSense.ai
-    location: Warsaw, PL
+    location: 3 months, Warsaw, PL
     date_start: '2019-06-01'
     date_end: '2019-09-01'
     description: |2-
