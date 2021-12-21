@@ -56,9 +56,20 @@ experience:
     date_start: '2019-06-01'
     date_end: '2019-09-01'
     description: |2-
-      * **Objectives:** Joined team of 6 Data Scientist and Data Engineers to build an add revenue prediction model for a client.
+      * **Objectives:** Joined team of 6 Data Scientist and Data Engineers to build an revenue prediction model for a client in advertisement industry.
       * **Responsibilities:** Built threshold adjustment mechanism which was included in a package delivered to the client. Other responsibilities include: data exploration, feature engineering, building gradient boosting trees (LightGBM), hyper-parameter optimisation, time series forecasting using boosting trees, and bias adjustment.
       * **Technology used:** Python, SQL, LightGBM, SciPy, SK-learn, Pandas, NumPy, Matplotlib, Seaborn.
+
+  - title: Project Support
+    company: Boston Consulting Group
+    location: part-time 8 months, Warsaw, PL
+    date_start: '2018-01-01'
+    date_end: '2018-09-01'
+    description: |2-
+      * **Objectives:** Support consultants during their projects. 
+      * **Responsibilities:** 2 main projects: (1) Research of the state and maturity of HR technology market in Poland, (2) Research on investment funds.
+      * **Performance:** Exceeded expectations.
+
 
 
 design:
