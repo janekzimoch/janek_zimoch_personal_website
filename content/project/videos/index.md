@@ -1,6 +1,6 @@
 ---
 title: Video making 
-summary: "My Life Story", "Trip to Mallorca", "Practice is Progress" and others
+summary: \"My Life Story\", \"Trip to Mallorca\", \"Practice is Progress\" and others
 tags:
 - Personal
 date: "2016-04-27T00:00:00Z"
