@@ -1,6 +1,6 @@
 ---
 title: Startup Weekend Bristol
-summary: In 2018, together with group of 4 friends we organised TechStars Startup Weekend in Bristol.
+summary: In 2018, together with group of 4 friends we organised TechStars Startup Weekend in Bristol. ![screen reader text](featured.ong "caption")
 tags:
 - Personal
 date: "2016-04-27T00:00:00Z"
@@ -8,9 +8,9 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by rawpixel on Unsplash
+#   focal_point: Smart
 
 # links:
 # - icon: twitter
@@ -29,6 +29,8 @@ image:
 # #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+TechStars Startup Weekend 
 
 
 {{< youtube F2eA15q_DVg >}}
