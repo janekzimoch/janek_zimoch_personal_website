@@ -12,31 +12,24 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: "https://youtu.be/F2eA15q_DVg"
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: "https://youtu.be/F2eA15q_DVg"
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+# # Slides (optional).
+# #   Associate this project with Markdown slides.
+# #   Simply enter your slide deck's filename without extension.
+# #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+# #   Otherwise, set `slides = ""`.
+# slides: example
 ---
-<!-- [![Alternate Text]({image-url})]({video-url} "Link Title") -->
 
-[C:\Users\XPS\Desktop\xihelm_classifier_test\janek_zimoch_personal_website\content\project\example copy\featured.jpg](https://youtu.be/F2eA15q_DVg)
-
-d
-ddd
-
-dd
 
 {{< youtube F2eA15q_DVg >}}
 
