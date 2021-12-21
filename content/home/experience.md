@@ -39,6 +39,7 @@ experience:
   - title: Graduate Student Researcher
     company: University of Cambridge
     location: 5 months thesis + 2 months full time after graduation, Cambridge, UK
+
     date_start: '2021-04-01'
     date_end: '2021-11-01'
     description: |2-
