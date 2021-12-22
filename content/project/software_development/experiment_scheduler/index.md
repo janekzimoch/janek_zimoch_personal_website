@@ -6,10 +6,10 @@ tags:
 - Software Development
 date: "2016-04-27T00:00:00Z"
 
-image:
-  placement: 1
-  focal_point: "Center"
-  preview_only: true
+# image:
+#   placement: 1
+#   focal_point: "Center"
+#   preview_only: true
 
 links:
 - icon: file-pdf
