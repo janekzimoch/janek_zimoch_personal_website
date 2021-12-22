@@ -3,7 +3,7 @@ title: Causal Inference
 summary: Built a generative model for a causal inference problem with some latent variables.  
 weight: 1
 tags:
-- Machine Learning
+- Machine_Learning
 date: "2016-04-27T00:00:00Z"
 
 image:

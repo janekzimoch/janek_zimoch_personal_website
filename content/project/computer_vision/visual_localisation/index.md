@@ -3,7 +3,7 @@ title: Visual Localisation
 summary: Developing novel, probabilistic approach to multimodal visual localisation.  
 weight: 1
 tags:
-- Computer Vision
+- Computer_Vision
 date: "2016-04-27T00:00:00Z"
 
 image:

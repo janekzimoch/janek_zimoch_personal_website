@@ -3,7 +3,7 @@ title: Experiment scheduler
 summary: Program for scheduling many smaller experiments on GPU in sequence.  
 weight: 1
 tags:
-- Software Development
+- Software_Development
 date: "2016-04-27T00:00:00Z"
 
 # image:

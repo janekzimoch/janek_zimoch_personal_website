@@ -26,11 +26,11 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Computer Vision
-    tag: Computer Vision
+    tag: Computer_Vision
   - name: Machine Learning
-    tag: Machine Learning
+    tag: Machine_Learning
   - name: Software Development
-    tag: Software Development
+    tag: Software_Development
   - name: Personal
     tag: Personal
 

@@ -3,7 +3,7 @@ title: Deep Metric Learning
 summary: I used Contrastive learning to classify whether two query images are from the same category. 
 weight: 3
 tags:
-- Machine Learning
+- Machine_Learning
 date: "2016-04-27T00:00:00Z"
 
 image:
