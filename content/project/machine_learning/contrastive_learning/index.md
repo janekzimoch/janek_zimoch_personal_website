@@ -11,6 +11,7 @@ image:
   focal_point: "Center"
   preview_only: true
 
+links:
 - icon: file-pdf
   icon_pack: fas
   name: report

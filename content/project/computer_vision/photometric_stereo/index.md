@@ -11,6 +11,7 @@ image:
   focal_point: "Center"
   preview_only: true
 
+links:
 - icon: github
   icon_pack: fab
   name: github
