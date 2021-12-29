@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Experience
-    url: '#experience'
+  - name: Posts
+    url: '#posts'
     weight: 20
   - name: Projects
     url: '#projects'
@@ -16,6 +16,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
+  - name: Publications
+    url: '#featured'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
