@@ -13,7 +13,9 @@ event_url: https://example.org
 #   country: United States
 
 summary: 
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Presented for:"
+ - Computer Vision Reading group at University of Cambridge.
+ - Computer Vision Group at Toshiba Research Laboratory, Cambridge.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -60,9 +62,9 @@ projects:
 - example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+{{% /callout %}} -->
 
 Slides can be added in a few ways:
 
