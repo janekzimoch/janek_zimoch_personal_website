@@ -10,11 +10,12 @@ image:
   placement: 1
   focal_point: "Center"
   preview_only: true
+share: false
 
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: thesis
+  name: report
   url: https://drive.google.com/file/u/1/d/1OssLvysJ5aUTim_fFeum1bbjGFs-lpnu/view?usp=sharing
 - icon: github
   icon_pack: fab

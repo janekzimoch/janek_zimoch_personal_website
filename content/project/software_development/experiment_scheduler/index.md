@@ -10,7 +10,7 @@ date: "2016-04-27T00:00:00Z"
 #   placement: 1
 #   focal_point: "Center"
 #   preview_only: true
-
+share: false
 links:
 - icon: file-pdf
   icon_pack: fas

@@ -10,7 +10,7 @@ image:
   placement: 1
   focal_point: "Center"
   preview_only: true
-
+share: false
 ---
 
 TBA
