@@ -8,12 +8,11 @@ image:
   placement: 1
   focal_point: "Center"
   preview_only: true
+share: false
 
-# links:
-# - icon: github
-#   icon_pack: fab
-#   name: github
-#   url: ""
+links:
+- name: slides
+  url: https://drive.google.com/file/d/1RZkca0fwnXHDo_9yoKAAHnA4BfzRmj_W/view?usp=sharing
 ---
 
 TBA
