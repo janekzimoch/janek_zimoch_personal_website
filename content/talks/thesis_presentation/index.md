@@ -1,6 +1,6 @@
 ---
 title: Novel, probabilistic approach to multimodal scene coordinate regression (30-minutes)
-summary: "30 minutes long. Presented for: (1) Computer Vision Reading Group at Univeristy of Cambridge, (2) Computer Vision Group ay Toshiba Research."
+summary: "30 minutes long presentation. Presented for: (1) Computer Vision Reading Group at University of Cambridge, (2) Computer Vision Group ay Toshiba Research."
 weight: 2
 date: "2016-04-27T00:00:00Z"
 
