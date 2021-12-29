@@ -13,6 +13,9 @@ event_url: https://example.org
 #   country: United States
 
 summary: 30 minutes long presentation summarising findings of my MPhil Thesis research.
+
+
+
 abstract: "Presented for:"
  - Computer Vision Reading group at University of Cambridge.
  - Computer Vision Group at Toshiba Research Laboratory, Cambridge.
