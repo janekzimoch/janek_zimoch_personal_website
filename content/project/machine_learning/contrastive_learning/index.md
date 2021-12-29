@@ -1,6 +1,6 @@
 ---
 title: Deep Metric Learning
-summary: I used Contrastive learning to classify whether two query images are from the same category. 
+summary: Used Contrastive learning to classify whether two query images are of the same class. 
 weight: 3
 tags:
 - Machine_Learning

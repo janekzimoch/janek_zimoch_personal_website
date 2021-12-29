@@ -1,6 +1,6 @@
 ---
 title: VAE with Inverse Autoregressive flows
-summary: Replicating "VAE with Inverse Autoregressive Flow" paper by Kingma et al. 
+summary: Replicated "VAE with Inverse Autoregressive Flow" paper by Kingma et al. 
 weight: 2
 tags:
 - Machine_Learning

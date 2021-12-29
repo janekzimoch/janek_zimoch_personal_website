@@ -12,7 +12,7 @@ event_url: https://example.org
 #   postcode: '94305'
 #   country: United States
 
-summary: 
+summary: 30 minutes long presentation summarising findings of my MPhil Thesis research.
 abstract: "Presented for:"
  - Computer Vision Reading group at University of Cambridge.
  - Computer Vision Group at Toshiba Research Laboratory, Cambridge.
@@ -59,7 +59,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- thesis_presentation
 ---
 
 <!-- {{% callout note %}}

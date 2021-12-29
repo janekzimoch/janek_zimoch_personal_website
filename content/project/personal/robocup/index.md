@@ -1,6 +1,6 @@
 ---
 title: Junior RoboCup World Championships
-summary: In 2016, together with my team we represented the UK at Junior RoboCup World Championships in Leipzgi, Germany.
+summary: In 2016, I represented the UK at Junior RoboCup World Championships.
 weight: 4
 tags:
 - Personal

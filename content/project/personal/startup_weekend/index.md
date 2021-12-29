@@ -1,6 +1,6 @@
 ---
 title: Startup Weekend Bristol
-summary: In 2018, together with my friends we organised TechStars Startup Weekend in Bristol.
+summary: In 2018, I organised TechStars Startup Weekend in Bristol.
 weight: 1
 tags:
 - Personal
