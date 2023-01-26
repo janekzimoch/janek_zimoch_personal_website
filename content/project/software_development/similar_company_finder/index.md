@@ -15,7 +15,7 @@ links:
 - icon: github
   icon_pack: fab
   name: github
-  url: https://github.com/janekzimoch/Causal_Inference_with_Probabilistic_Modelling/blob/main/L48Project.ipynb
+  url: https://github.com/janekzimoch/similar_company_finder
 
 ---
 

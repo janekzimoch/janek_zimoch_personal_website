@@ -15,7 +15,7 @@ links:
 - icon: github
   icon_pack: fab
   name: github
-  url: https://github.com/janekzimoch/Causal_Inference_with_Probabilistic_Modelling/blob/main/L48Project.ipynb
+  url: https://github.com/janekzimoch/web_dev_practice
 
 ---
 
@@ -24,15 +24,17 @@ To get started with web development and learn React, Django, HTML, and CSS I enr
 During this course I developed 6 mini projects:
 
 ## 1. Google wraper
-TBA
+<img src="./figures/google_search.png" alt="drawing" height="300"/>
 
 ## 2. Wikipedia page
+<img src="./figures/wiki.png" alt="drawing" height="300"/>
 
 ## 3. E-commerce website
-TBA
+<img src="./figures/e_commerce_photo.png" alt="drawing" height="300"/>
 
 ## 4. Email client
-TBA
+<img src="./figures/email.png" alt="drawing" height="300"/>
 
 ## 5. Twitter like social network
-TBA
+<img src="./figures/google_search.png" alt="drawing" height="300"/>
+
