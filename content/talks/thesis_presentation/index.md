@@ -15,5 +15,7 @@ links:
   url: https://drive.google.com/file/d/1RZkca0fwnXHDo_9yoKAAHnA4BfzRmj_W/view?usp=sharing
 ---
 
-TBA
+After copleting my thesis, I was invited to give a talk for Computer Vision Reading group at University of Cambridge led by prof. Roberto cipolla. After succesful reception, I gave the same talk also for the Toshiba's Computer Vision Group.
+
+The talk presents novelty of my research. How we can perform multimodal scene re-localisation using probabilistic methods.
 

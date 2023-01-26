@@ -30,12 +30,12 @@ experience:
     date_start: '2021-03-08'
     description: |2-
       **Article recommendation system**
-      * **Tech stack** Python, Transformers, TensorFlow, Dash (dashboarding), OOP, Git, unit testing.
+      * **Tech stack:** Python, Transformers, TensorFlow, Dash (dashboarding), OOP, Git, unit testing.
       * System design and development of recommendation system using object-oriented programming. 
       * Modules included: article embedding generator, readership history parser, dashboard UI for a demo, and other objects for model development (training, evaluation, visualisation).
-      
+
       **Decision making algorithm for algorithmic trading**                                                                         
-      * **Tech stack** Python, SQL, Data Science libraries, PostgreSQL (database), Docker (container), CI/CD
+      * **Tech stack:** Python, SQL, Data Science libraries, PostgreSQL (database), Docker (container), CI/CD
       * Delt with high noise to signal ratio, by systematic (unit testing, statistical methods) and iterative (CI/CD) development.
       * Developed domain knowledge about liquidity of bonds, market making, and trading strategies in OTC markets.
       * Co-created PostgreSQL database with API and deployed it to a Docker container.

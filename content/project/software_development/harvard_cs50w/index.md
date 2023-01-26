@@ -19,7 +19,7 @@ links:
 
 ---
 
-To get started with web development and learn React, Django, HTML, and CSS I enrolled in Harvard CS50W web development online course ([https://cs50.harvard.edu/web/2020/]). 
+To get started with web development and learn React, Django, HTML, and CSS I enrolled in Harvard CS50W web development online course (https://cs50.harvard.edu/web/2020/). 
 
 During this course I developed 6 mini projects:
 
