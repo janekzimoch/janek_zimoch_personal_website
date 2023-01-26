@@ -40,7 +40,7 @@ Read more about this project here: [Project 3](https://cs50.harvard.edu/web/2020
 
 
 ## 4. Email client
-<img src="./figures/email.png" alt="drawing" height="200" border-style="2px solid" border-radius="5px"/>
+<img src="./figures/email.png" alt="drawing" height="200"/>
 
 Read more about this project here: [Project 4](https://cs50.harvard.edu/web/2020/projects/3/mail/)
 
