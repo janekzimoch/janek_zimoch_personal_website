@@ -23,8 +23,8 @@ links:
 
 ---
 
-Some experiments are fast to train, from few minutes to couple of hours. I found it time consuming and frustrating to have to schedule them manually as this consumed my attention from other work. 
+Experiments in machine learning often take between few minutes to couple of hours. Often you it's hard to predict how long the next experiment will ran for, and you might find yourself checking every couple of minutes if it has finished or not, such that you can start running the next experiment. I found this process of manual experiment scheduling time consuming and frustrating, which kept distracting me from carrying out other work. 
 
-I created this program to ran all experiments from a single main.py script. All experiment would be loaded to a queue and would be offloaded for training on GPU depending on GPU memory utilisation (i.e. we would train as amny experiments in parallel as the memory allows, other experiments would wait for their turn.)
+I created this program to ran all experiments from a single main.py script. All experiment would be loaded to a queue and would be offloaded for training on GPU depending on GPU memory utilisation (i.e. we would train as many experiments in parallel as the memory allows, other experiments would wait for their turn.)
 
 Next extension (for futrue work) is to develop a notification system (i.e. via whatsapp or email) to get notifications as experiments finish training or fail executing. 
