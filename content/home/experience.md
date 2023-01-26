@@ -22,7 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Intern
+  - title: Data Scientist
+    company: Standard Charted Bank
+    # company_url: ''
+    # company_logo: org-gc
+    location: London, UK
+    date_start: '2021-03-08'
+    # date_end: '2022-02-01'
+    description: |2-
+      * **Project objective:** Reformulate surface normal regression in CNN based photometric-stereo task, as a conditional density estimation task using flexible Conditional Normalising Flows.
+      * **Motivation:** Conditional density estimation allows to regress entire posterior distribution rather than just its mean, as is the case in a deterministic formulation of regression tasks. Access to the full posterior distribution can improve quality of 3D surface integration by leveraging the full posterior distribution during inference. This will improve state of the art of a few light CNN based photometric stereo, where mapping from input to output may sometimes become ambigious due to shadows, color saturation, self-reflections and other complex light-surface interactions.
+      * **Technology used:** Python, Synthetic data generation in C++, PyTorch, Pyro, Conditional Normalising Flows, Graphics and Rendering theory.
+      
+      
+  - title: Research Scientist Intern
     company: Toshiba Research Europe
     # company_url: ''
     # company_logo: org-gc
