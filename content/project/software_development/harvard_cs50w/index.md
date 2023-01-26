@@ -1,7 +1,7 @@
 ---
-title: Online Harver CS50W course
+title: Harvard CS50W online course
 summary: 6 mini web-app courseworks and 16 hours of lectures, which introduced me to web development.
-weight: 1
+weight: 3
 tags:
 - Software_Development
 date: "2016-04-27T00:00:00Z"
