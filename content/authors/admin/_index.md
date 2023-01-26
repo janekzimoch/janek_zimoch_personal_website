@@ -6,11 +6,11 @@ title: Janek Zimoch
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Toshiba Research Europe
+- name: Standard Charted Bank
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -18,6 +18,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Software development 
+- Full-stack web development
 - Scene understanding (CV)
 - Machine Perception (CV)  
 - Probabilistic Machine Learning 
@@ -63,8 +64,10 @@ email: ""
 highlight_name: true
 ---
 
-My name is Janek Zimoch, I am a computer vision research intern at Toshiba Research Laboratory in Cambridge, UK. I graduated with commendation (Top 3-5) from an MPhil in Machine Learning and Machine Intelligence [(MLMI)](https://www.mlmi.eng.cam.ac.uk/) at the University of Cambridge, in 2021. Prior to that I obtained first class honors in Mechanical Engineering at the University of Bristol, ranking Top 1-2 in the cohort of 150 students. 
+Hi, my name is Janek Zimoch, I am a software developer with 4 years of coding experience (2 years in a professional environemnt). My background lies in Machine Learning, my ambition and interests lie in development of full-stack applications, with or without the Machine Learning components. My ambition is to become and expert at developing full-stack applications, and I try to orient my personal and professional projects in this direction.
 
-My interest in Software Engineering and Machine Learning began in summer 2018, when during my exchange year at UT Austin (TX, USA) I took several coding classes and started 'Extended Vision' computer vision project. My overarching goal is to build innovative software products to be used by a wider public.
+I am curently working at Standard Charted Bank, where i develop signal-generation algorithms for algorithmic trading. Before that I worked as a research scientist intern in a Computer Vision Group at Toshiba Research Europe. I graduated with commendation (Top 3-5) from an MPhil in Machine Learning and Machine Intelligence [(MLMI)](https://www.mlmi.eng.cam.ac.uk/) at the University of Cambridge, in 2021. Prior to that, I obtained first class honors in Mechanical Engineering at the University of Bristol, ranking Top 1-2 in the cohort of 150 students. 
+
+<!-- My interest in Software Engineering and Machine Learning began in summer 2018, when during my exchange year at UT Austin (TX, USA) I took several coding classes and started 'Extended Vision' computer vision project. My overarching goal is to build innovative software products to be used by a wider public. -->
  <!-- My current technical strengths lie in  -->
 <!-- Three main personal trats which will help me along this quest are my: curiosity, proactiveness, and work ethic.   -->
