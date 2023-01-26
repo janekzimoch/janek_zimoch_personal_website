@@ -36,10 +36,22 @@ experience:
     description: |1-
       * Article recommendation system 
     description: |2-
-      * **Project objective:** Reformulate surface normal regression in CNN based photometric-stereo task, as a conditional density estimation task using flexible Conditional Normalising Flows.
+      *  **Project objective:** Reformulate surface normal regression in CNN based photometric-stereo task, as a conditional density estimation task using flexible Conditional Normalising Flows.
+        * sdds
+        
       * **Motivation:** Conditional density estimation allows to regress entire posterior distribution rather than just its mean, as is the case in a deterministic formulation of regression tasks. Access to the full posterior distribution can improve quality of 3D surface integration by leveraging the full posterior distribution during inference. This will improve state of the art of a few light CNN based photometric stereo, where mapping from input to output may sometimes become ambigious due to shadows, color saturation, self-reflections and other complex light-surface interactions.
       * **Technology used:** Python, Synthetic data generation in C++, PyTorch, Pyro, Conditional Normalising Flows, Graphics and Rendering theory.
-      
+
+# London, UK
+# Mar 2022 – presentArticle recommendation system                                                                                                    
+# Tech stack: Python, Transformers, TensorFlow, Dash (dashboarding), OOP, Git, unit testing.
+# System design and development of recommendation system using object-oriented programming. 
+# Modules included: article embedding generator, readership history parser, dashboard UI for a demo, and other objects for model development (training, evaluation, visualisation).
+# Liquidity scoring system of Cognitive Algo Trader                                                                                 
+# Tech stack: Python, SQL, Data Science libraries, PostgreSQL (database), Docker (container), CI/CD
+# Delt with high noise to signal ratio, by systematic (unit testing, statistical methods) and iterative (CI/CD) development.
+# Developed domain knowledge about liquidity of bonds, market making, and trading strategies in OTC markets.
+# Co-created PostgreSQL database with API and deployed it to a Docker container.
       
   - title: Research Scientist Intern
     company: Toshiba Research Europe
