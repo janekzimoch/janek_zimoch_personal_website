@@ -12,10 +12,6 @@ date: "2016-04-27T00:00:00Z"
 #   preview_only: true
 share: false
 links:
-- icon: file-pdf
-  icon_pack: fas
-  name: raport
-  url: https://drive.google.com/file/d/1nk6uNk9OEz_AIB0ryFuKjtfXdt5eVFtR/view
 - icon: github
   icon_pack: fab
   name: github
