@@ -24,5 +24,5 @@ links:
 
 ---
 
-TBA
+In the image matching task, a model receives a pair of images and determines if they are similar or not. We use Deep Distance Metric Learning to extract a lower dimensional representation of images and measure their similarity. The goal is to cluster similar images in a K-dimensional space. Two main sub-problems are identifying an objective function and designing a CNN feature extractor. We evaluate different approaches and CNN architectures in this method. Our training procedure and techniques to speed up convergence are also presented and evaluated.
 

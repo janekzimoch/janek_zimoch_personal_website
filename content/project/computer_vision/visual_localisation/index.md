@@ -24,5 +24,5 @@ links:
 
 ---
 
-TBA
+The aim of camera relocalization is to predict a 6-degree of freedom camera pose from a 2D image input. Current state-of-the-art methods can achieve centimeter-level accuracy. However, most methods only predict a single pose estimate, which is not sufficient for ambiguous images. In this thesis, we propose a novel probabilistic framework for multimodal scene coordinate regression (M-SCR) which uses a per-pixel adaptation of Mixture Density Network and factor graph and belief propagation to infer the 6-DoF posterior distribution over camera pose, which outperforms unimodal approaches on multiple datasets. To the best of our knowledge, this is the first work to do multimodal camera relocalization using scene coordinate regression.
 
