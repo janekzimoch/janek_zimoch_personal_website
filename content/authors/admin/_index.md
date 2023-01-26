@@ -62,7 +62,7 @@ email: ""
 highlight_name: true
 ---
 
-My name is Janek Zimoch, I am a software developer with 4 years of coding experience. My interests lie in full-stack web development and machine learning. My ambition is to become and expert in building full-stack software products, and I orient my personal and professional projects to grow in this direction.
+My name is Janek Zimoch, I am a software developer with 4 years of coding experience. My interests lie in full-stack web development and machine learning. My ambition is to become an expert in building full-stack software products, and I orient my personal and professional projects to grow in this direction.
 
 I am curently working at Standard Charted Bank, where i develop signal-generation algorithms for algorithmic trading. In my free time, I develop web applications using Django and React. I graduated with commendation (Top 3-5) from an MPhil in Machine Learning and Machine Intelligence [(MLMI)](https://www.mlmi.eng.cam.ac.uk/) at the University of Cambridge, in 2021. Prior to that, I obtained first class honors in Mechanical Engineering at the University of Bristol, ranking Top 1-2 in the cohort of 150 students. 
 
