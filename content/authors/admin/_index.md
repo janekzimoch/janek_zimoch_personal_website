@@ -6,7 +6,7 @@ title: Janek Zimoch
 superuser: true
 
 # Role/position/tagline
-role: Research intern
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
